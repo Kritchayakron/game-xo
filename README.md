@@ -4,11 +4,11 @@
 - mongodb
 
 # Server
-cd server
-npm install
-npm run start
+- cd server
+- npm install
+- npm run start
 
 # Client
-cd client
-npm install
-npm run start
+- cd client
+- npm install
+- npm run start
